@@ -11,5 +11,4 @@ sleep(3)
 os.system(' pkg install python2 -y ')
 os.system(' pkg install git -y ')
 print("\033[1;36m TOOLS SEDANG DI PERBAHARUI")
-sleep(3)
-os.system('exit')
+
