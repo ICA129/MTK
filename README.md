@@ -10,4 +10,4 @@ $ git clone https://github.com/ICA129/mtk
 
 $ cd mtk
 
-$ python3 mtk.py
+$ python3 Mtk.py
