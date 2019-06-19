@@ -7,7 +7,8 @@ os.system(' clear ')
 print("""\033[1;36m 
 -----------------------------------------------|
 |      TOOLS BELAJAR MATEMATIKA                |   
-|______________________________________________|                                              |    JANGAN LUPA SUBCRIBE CHANNEL GUA        
+|______________________________________________|                                              | 
+|   JANGAN LUPA SUBCRIBE CHANNEL GUA           |
 |______________________________________________|                                              |
 |                                              |                 
 |      Author     = Mr.hmei24 && Mr.money      |
